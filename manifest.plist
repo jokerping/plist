@@ -33,10 +33,10 @@
 			<dict>
 				<key>bundle-identifier</key>
                 <!-- 修改BundleId -->
-				<string>com.xxx.hehe</string>
+				<string>com.synavinfo.wedriveForToyota</string>
 				<key>bundle-version</key>
                 <!-- 修改实际版本号 -->
-				<string>3.4</string>
+				<string>1.8.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
